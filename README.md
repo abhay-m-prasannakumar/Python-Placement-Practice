@@ -33,5 +33,5 @@ These programs are useful for:
 Clone this repository and start exploring the code:
 
 ```bash
-git clone https://github.com/abhay-m-prasannakumar/python-placement-practice.git
-cd python-placement-practice
+git clone https://github.com/abhay-m-prasannakumar/Python-Placement-Practice.git
+cd Python-Placement-Practice
